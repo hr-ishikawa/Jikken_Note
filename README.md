@@ -7,3 +7,4 @@ Embeddingモデルは、Gemini, OpenAI(Small/Large), PLaMo, Ruri v3を使用
 |Note_Retrival_nDCG2_Hybrid_with_UserDic.ipynb|Hybrid検索に加え、User辞書を追加|
 |Note_Retrival_nDCG3_Hybrid_Normarize.ipynb|Hybrid検索に加え、作図|
 |Note_nDCG_long_df.csv|各出力結果を結合. 作図用|
+|Gradio_Retrival_MultiInput_PartialRetrieve.py|GradioでUIを追加した例|
